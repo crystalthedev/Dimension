@@ -3,7 +3,7 @@
 
 ![Preview](https://img.shields.io/badge/Preview-black?style=for-the-badge&labelColor=white&color=black)
 
-![Dimension Preview](./port/media/dim.png)
+![Dimension Preview](https://raw.githubusercontent.com/crystalthedev/Dimension/main/dim.png)
 
 ![Architecture](https://img.shields.io/badge/Architecture-black?style=for-the-badge&labelColor=white&color=black)
 
